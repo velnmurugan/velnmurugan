@@ -46,4 +46,26 @@ I build end-to-end ML pipelines, from data collection and annotation through mod
 
 ---
 
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More at **[my blog](BLOG_URL)**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=velnmurugan&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velnmurugan&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=velnmurugan&hide_border=true&theme=transparent" alt="GitHub streak">
+</p>
+
+---
+
 🌍 English (C1) · Deutsch (B2) · தமிழ் (native) &nbsp;|&nbsp; 🏸 Badminton · 🥾 Hiking in the Alps
