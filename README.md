@@ -10,7 +10,9 @@ I build end-to-end ML pipelines, from data collection and annotation through mod
 - 🎓 **M.Sc. Mechatronics**, Universität Siegen (thesis grade 1.0)
 
 <p>
+  <a href="https://vectorspace.blog/"><img src="https://img.shields.io/badge/Blog-vectorspace.blog-1f6feb?logo=readdotcv&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/velmurugan-nvm/"><img src="https://img.shields.io/badge/LinkedIn-velmurugan--nvm-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.ife.uni-stuttgart.de/institut/team/Narayanasamy/"><img src="https://img.shields.io/badge/Uni%20Stuttgart-profile-004191" alt="University profile"></a>
 </p>
 
 ---
@@ -46,12 +48,16 @@ I build end-to-end ML pipelines, from data collection and annotation through mod
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ Vector Space: my blog
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://vectorspace.blog/"><img src="https://img.shields.io/badge/vectorspace.blog-visit-1f6feb?style=for-the-badge" alt="vectorspace.blog"></a>
 
-➡️ More at **[my blog](BLOG_URL)**
+| Series | What's inside |
+|---|---|
+| **[◉ Grounded AI](https://vectorspace.blog/chapters/00-overview)** | Learn RAG from first principles: ten interactive chapters, built from scratch |
+| **[◎ Agentic AI](https://vectorspace.blog/agentic-ai/00-overview)** | An interactive course on AI agents |
+| **[◈ Vector Reads](https://vectorspace.blog/vector-reads/00-overview)** | Notes on papers and ideas I'm reading |
+| **[Projects](https://vectorspace.blog/projects)** | Write-ups on computer vision, ML, scientific computing and probabilistic modelling |
 
 ---
 
